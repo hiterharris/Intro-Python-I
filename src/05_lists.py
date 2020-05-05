@@ -32,5 +32,5 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
-for val in x:
-    print(val * 1000)
+for i in x:
+    print(i * 1000)
